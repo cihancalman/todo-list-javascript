@@ -1,0 +1,15 @@
+.main{
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+.todo{
+    min-height: 40vh;
+}
+
+.checked{
+    text-decoration-line: line-through;
+}
+span.active{
+    color: blue;
+}
